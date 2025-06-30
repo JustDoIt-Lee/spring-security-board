@@ -70,11 +70,11 @@ src/
 ---
 
 ## 📌 참고 사항
-최초 실행 시 H2 DB를 사용하며, application.yml을 수정해 MySQL 등으로 변경 가능
+최초 실행 시 기본적으로 H2 DB를 사용하며, application.yml을 수정해 MySQL 등으로 변경 가능합니다.
 
-JSP 기반 구조이므로 Spring Boot Devtools 사용 시 자동 리로드 기능 비활성화 가능
+JSP 기반 구조이므로 Spring Boot Devtools 사용 시 자동 리로드 기능이 제한될 수 있습니다.
 
 ---
 
-✨ 프로젝트를 통해 배운 점
+## ✨ 느낀 점
 > Spring Security의 인증 구조와 세션 관리, MVC 아키텍처의 구성, 계층 분리 설계 등을 실무에 가깝게 체험할 수 있었습니다.
